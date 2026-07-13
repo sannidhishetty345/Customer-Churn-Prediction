@@ -8,6 +8,12 @@
 ![AWS](https://img.shields.io/badge/AWS-Elastic%20Beanstalk-yellow)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
+[![Live API](https://img.shields.io/badge/Live_API-Open-success?style=for-the-badge)](http://YOUR-ELASTIC-BEANSTALK-URL)
+
+[![Swagger Docs](https://img.shields.io/badge/Swagger-Documentation-blue?style=for-the-badge)](http://YOUR-ELASTIC-BEANSTALK-URL/docs)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/sannidhishetty345/Customer-Churn-Prediction)
+
 ---
 
 ## 📌 Project Overview
