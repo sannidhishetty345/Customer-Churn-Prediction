@@ -1,17 +1,16 @@
-# 🚀 Customer Churn Prediction API
+<img width="1854" height="968" alt="image" src="https://github.com/user-attachments/assets/20a2a2bc-a6a1-4273-944f-bedf8073a323" /># 🚀 Customer Churn Prediction API
 ### End-to-End Machine Learning Deployment using FastAPI, Docker & AWS Elastic Beanstalk
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](http://127.0.0.1:8000/docs#/default/predict_predict_post)
+![FastAPI](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/docs)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![AWS](https://img.shields.io/badge/AWS-Elastic%20Beanstalk-yellow)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
 
 [![Live API](https://img.shields.io/badge/Live_API-Open-success?style=for-the-badge)](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/)
 
-[![Swagger Docs](https://img.shields.io/badge/Swagger-Documentation-blue?style=for-the-badge)](http://127.0.0.1:8000/redoc)
-
+[![Swagger Docs](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/redoc)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/sannidhishetty345/Customer-Churn-Prediction)
 
 ---
@@ -157,7 +156,7 @@ Returns churn prediction for customer input.
 Interactive API Documentation
 
 ```
-http://<your-elastic-beanstalk-url>/docs
+http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/docs
 ```
 
 ---
