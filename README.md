@@ -1,18 +1,12 @@
 <img width="1854" height="968" alt="image" src="https://github.com/user-attachments/assets/20a2a2bc-a6a1-4273-944f-bedf8073a323" /># 🚀 Customer Churn Prediction API
 ### End-to-End Machine Learning Deployment using FastAPI, Docker & AWS Elastic Beanstalk
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/docs)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![AWS](https://img.shields.io/badge/AWS-Elastic%20Beanstalk-yellow)
-
-
 [![Live API](https://img.shields.io/badge/Live_API-Open-success?style=for-the-badge)](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/)
+[![FastAPI Docs](https://img.shields.io/badge/FastAPI-Swagger-009688?style=for-the-badge&logo=fastapi&logoColor=white)](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/docs)
+[![ReDoc](https://img.shields.io/badge/API-ReDoc-blue?style=for-the-badge)](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/redoc)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/sannidhishetty345/Customer-Churn-Prediction)
 
-[![Swagger Docs](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/redoc)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/sannidhishetty345/Customer-Churn-Prediction)
-
+---
 ---
 
 ## 📌 Project Overview
