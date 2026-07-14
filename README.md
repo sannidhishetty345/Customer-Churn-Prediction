@@ -1,4 +1,4 @@
-<img width="1854" height="968" alt="image" src="https://github.com/user-attachments/assets/20a2a2bc-a6a1-4273-944f-bedf8073a323" /># 🚀 Customer Churn Prediction API
+
 ### End-to-End Machine Learning Deployment using FastAPI, Docker & AWS Elastic Beanstalk
 
 [![Live API](https://img.shields.io/badge/Live_API-Open-success?style=for-the-badge)](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/)
@@ -150,7 +150,7 @@ Returns churn prediction for customer input.
 Interactive API Documentation
 
 ```
-
+http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/docs
 ```
 
 ---
