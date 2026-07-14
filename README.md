@@ -150,7 +150,7 @@ Returns churn prediction for customer input.
 Interactive API Documentation
 
 ```
-http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/docs
+
 ```
 
 ---
