@@ -2,7 +2,7 @@
 ### End-to-End Machine Learning Deployment using FastAPI, Docker & AWS Elastic Beanstalk
 
 [![Live API](https://img.shields.io/badge/Live_API-Open-success?style=for-the-badge)](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/)
-[FastAPI Docs](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/docs)
+[![FastAPI Docs](https://img.shields.io/badge/FastAPI-Swagger-009688?style=for-the-badge&logo=fastapi&logoColor=white)](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/docs)
 [![ReDoc](https://img.shields.io/badge/API-ReDoc-blue?style=for-the-badge)](http://customerchurnprediction-env.eba-waz6pfsf.eu-north-1.elasticbeanstalk.com/redoc)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/sannidhishetty345/Customer-Churn-Prediction)
 
